@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="bluecatcode.junit.4.10.extended" type="repository">
+    <properties maven-id="com.bluecatcode.junit:junit-4.10-extended:1.0.4">
+      <exclude>
+        <dependency maven-id="com.bluecatcode.junit:junit-4.10-extended" />
+        <dependency maven-id="junit:junit" />
+      </exclude>
+    </properties>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
