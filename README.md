@@ -1,7 +1,7 @@
 # GameGarajSeleniumTesting
 
 
-## Cart Test:
+## Cart Test:
 ![Ekran Resmi 2023-05-25 13 23 28](https://github.com/nuricanozturk01/Game-Garaj-Selenium-Test/assets/62218588/9e19703f-254c-41d2-8d87-5e4308eebafa)
 
 ## Sign Up Test:
