@@ -1,4 +1,4 @@
-# GameGarajSeleniumTesting (Year: 05/2022)
+# GameGaraj Selenium Testing (Year: 05/2022)
 
 
 ## Cart Test:
