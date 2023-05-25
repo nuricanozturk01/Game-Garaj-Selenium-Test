@@ -23,3 +23,13 @@
 
 ## Test Results
  - https://www.youtube.com/playlist?list=PLB80H1Af3NVrjwVn9c4eqUvnLcBw1orU5
+
+### Result
+  - All informations (credit card etc...) are fake.
+  - When I enter an invalid email address (e.g., asd@fsdgs.com) during the sign-up process, the website accepts the email and approves the sign-up. If I enter an extremely long password during the sign-up process, the system accepts the password but then becomes locked.
+  - In the cart section, if the number of items in the cart exceeds the maximum item limit (9223372036854775807), the system automatically reduces the item count to the maximum limit (again: 9223372036854775807).
+  - There are inaccuracies in the product rankings.
+  - When I entered the non-existing credit card on payment process, system accept it and show the message (like: "Your order has been received.") but gamegaraj not accept the order.
+
+## My Opinions:
+This website contains many errors and bugs like this. There are areas that need to be fixed urgently. I can enter with a non-existent email and place an order with a non-existent credit card, but of course, these orders are not approved by GameGaraj.
